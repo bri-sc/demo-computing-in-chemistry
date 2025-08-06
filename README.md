@@ -1,15 +1,15 @@
 ## Computing in Chemistry Demo
-This is an interactive Python demonstration that showcases how Chemistry can be applied in a computing context.
-Click on the icons to launch the demos through BinderHub:
+This is a Bristol Scientific Computing (BriSC) Python interactive demonstration that showcases how Chemistry can be applied in a computing context. This provides a taster for the type of coding and approach we take on the "Chemistry with Computing" programme at the University of Bristol. See the See the [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) and [Undergraduate Programme for Chemistry with Computing](https://www.bristol.ac.uk/study/undergraduate/chemistry-computing/) for more details.
 
-Part 1:
+The Jupyter notebook uses data sourced from:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-computing-in-chemistry/HEAD?urlpath=%2Fdoc%2Ftree%2F01_Demo_Computing_in_Chemistry_kinetics.ipynb)
+**Repository**: [chemical-kinetics](https://github.com/flboudoire/chemical-kinetics)
 
-Updated Part 1:
+**Author**: [@flboudoire](https://github.com/flboudoire)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-computing-in-chemistry/HEAD?urlpath=%2Fdoc%2Ftree%2FV2_01_Demo_Computing_in_Chemistry_kinetics.ipynb)
+**License**: MIT License
 
-Part 2:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-computing-in-chemistry/HEAD?urlpath=%2Fdoc%2Ftree%2F02_Demo_Computing_in_Chemistry_reaction_screening.ipynb)
+Click on the icon to launch the demo through BinderHub:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/bri-sc/demo-computing-in-chemistry/HEAD?urlpath=%2Fdoc%2Ftree%2FV2_01_Demo_Computing_in_Chemistry_kinetics.ipynb)
