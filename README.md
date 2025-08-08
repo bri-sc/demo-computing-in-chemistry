@@ -1,5 +1,5 @@
 ## Computing in Chemistry Demo
-This is a Bristol Scientific Computing (BriSC) Python interactive demonstration that showcases how Chemistry can be applied in a computing context. This provides a taster for the type of coding and approach we take on the "Chemistry with Computing" programme at the University of Bristol. See the See the [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) and [Undergraduate Programme for Chemistry with Computing](https://www.bristol.ac.uk/study/undergraduate/chemistry-computing/) for more details.
+This is a Bristol Scientific Computing (BriSC) Python interactive demonstration that showcases how Chemistry can be applied in a computing context. This provides a taster for the type of coding and approach we take on the "Chemistry with Computing" programme at the University of Bristol. See the [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) and [Undergraduate Programme for Chemistry with Computing](https://www.bristol.ac.uk/study/undergraduate/chemistry-computing/) for more details.
 
 The Jupyter notebook uses data sourced and modified slightly from:
 
