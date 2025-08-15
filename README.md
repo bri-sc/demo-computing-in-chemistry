@@ -13,4 +13,4 @@ With documentation here: https://chemical-kinetics.readthedocs.io/en/latest/inde
 
 Click on the icon to launch the demo through BinderHub:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/bri-sc/demo-computing-in-chemistry/HEAD?urlpath=%2Fdoc%2Ftree%2FV2_01_Demo_Computing_in_Chemistry_kinetics.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/bri-sc/demo-computing-in-chemistry/HEAD?urlpath=%2Fdoc%2Ftree%2F01_Demo_Computing_in_Chemistry_kinetics.ipynb)
