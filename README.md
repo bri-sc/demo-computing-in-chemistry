@@ -3,7 +3,7 @@ This is a Bristol Scientific Computing (BriSC) Python interactive demonstration 
 
 As this demo is Chemistry-themed, this assumes some knowledge of A-level Chemistry but no knowledge of computing is required. This demonstrates how we can use code to investigate experimental data.
 
-Click on the icon to launch the demo through BinderHub:
+Click on the icon to launch the demo through MyBinder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/bri-sc/demo-computing-in-chemistry/HEAD?urlpath=%2Fdoc%2Ftree%2F01_Demo_Computing_in_Chemistry_kinetics.ipynb)
 
